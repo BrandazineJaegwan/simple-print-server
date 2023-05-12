@@ -1,7 +1,7 @@
 # SIMPLE PRINT SERVER
 
 ### Description
-Mock Printer Server
+Mock Print Server
 
 ### Installation
 
